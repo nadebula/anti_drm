@@ -1,1 +1,1 @@
-# anti_drm
+# Anti-DRM materials -- Chinese translation
