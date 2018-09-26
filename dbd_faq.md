@@ -23,13 +23,9 @@ DRM 有哪些例子？
 取决于 DRM 系统，不同的限制和控制被强制施加于硬件和软件。用户可以被强制使用某些硬件或软件平台、被限制为在预定义的数量的设备上访问他们的媒体、被要求拥有持续的互联网连接以使用本地文件、使其文件被绑定到在线帐户、不能使用诸如屏幕阅读器等无障碍软件、在某些区域被禁止访问媒体，或是甚至在任何时机被静默地远程删除他们的文件等。
 
 * 如果您从 Steam 购买电子版的游戏副本，您不能在您玩过它们之后将其卖掉或者与朋友分享。哪怕您只是尝试如此做，Steam 将会封禁您的帐户，这会使您失去所有的游戏；
-
 * 在 20 世纪 00 年代中期，索尼在其音乐 CD 中捆绑 DRM，它会跟踪用户的收听习惯、在其计算机上制造安全漏洞并且阻止 CD 复制软件正常工作；
-
 * Netflix 和 Youtube 制造了负特性以阻止用户在某些国家或是在一定数量的设备上观看它们的媒体；
-
 * 在 2009 年，亚马逊远程删除了通过 Kindle 商店发售的乔治·欧威尔（George Orwell）的反乌托邦小说 _1984_。这种令人胆寒的潜在恶意行为的范例如果没有 DRM 就会成为不可能。DRM 剥夺了您的阅读的权利；
-
 * 关于 DRM 的更多范例描述在[此处](https://gnu.org/philosophy/proprietary-drm.html)。
 
 DRM 的目的是什么？
@@ -98,25 +94,15 @@ DRM 和自由软件完全不兼容。DRM 仅当保持计算机的一部分对于
 ### 电子书
 
 * Archos Diffusion - Archos Reader (.aeh)
-
 * Broadband eBooks (BBeB) - Sony media (.lrf; .lrx)
-
 * EPUB - IDPF/EPUB (.epub)
-
 * PalmDOC eReader (formerly Palm Digital Media/Peanut Press) - Palm Media (.pdb)
-
 * Founder Electronics - Apabi Reader (.xeb; .ceb)
-
 * Apple - iBook (.ibooks)
-
 * Amazon Kindle - KF8 (.azw; .kf8)
-
 * Microsoft LIT - Microsoft Reader (.lit)
-
 * Mobipocket - PRC (Palm OS) - (.prc; .mobi)
-
 * Portable Document Format (.pdf)
-
 * TEBR - TEBR (.tebr)
 
 ### 音频
@@ -124,13 +110,9 @@ DRM 和自由软件完全不兼容。DRM 仅当保持计算机的一部分对于
 为了避免 DRM 和其他限制，我们建议将诸如 Opus（.opus）或者 Vorbis（.oga 或 .ogg）等自由音频格式用于一般用途，而将 FLAC（.flac）用于无损应用，以及将 Speex（.spx）用于语音应用。
 
 * Advanced Audio Coding (.m4p; .aac)
-
 * Adaptive Transform Acoustic Coding (ATRAC) - Sony Corporation (.aa3; .oma; .at3)
-
 * MPEG-1 or MPEG-2 Audio Layer III (.mp3)
-
 * RealAudio (.ra; .ram)
-
 * Windows Media Audio (.wma)
 
 ### 视频
@@ -138,16 +120,9 @@ DRM 和自由软件完全不兼容。DRM 仅当保持计算机的一部分对于
 为了避免 DRM 和其他限制，我们建议使用诸如 Theora（.ogv 或 .ogm）、VP8（.webm）或者 Daala 等自由视频格式。
 
 * DivX Media Format (DMF) - DivX, Inc. (.divx)
-
 * Flash Video (.swf; .flv; .f4p)
-
 * M4V - Apple, Inc. (.m4v)
-
 * MPEG-4 Part 14 - MP4 (.mp4)
-
 * QuickTime File Format (QTFF) - Apple, Inc. (.mov; .qt)
-
 * RealVideo (.rm; .rmvb)
-
 * Windows Media Video (.wmv)
-
